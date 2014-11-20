@@ -1,0 +1,43 @@
+{
+    "demographic": {
+        "gender": "mostly_female"
+    },
+    "facebook": {
+        "application": "Candy Crush Saga",
+        "author": {
+            "type": "user",
+            "hash_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        },
+        "caption": "I just completed level 576, scored 654321 points and got 3 stars.",
+        "created_at": "Tue, 20 May 2014 12:34:56 +0000",
+        "description": "Click here to follow my progress!",
+        "id": "100000000000000_123456789012345",
+        "link": "http://apps.facebook.com/candycrush/?urlMessage=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "name": "Yay, I completed level 576 in Candy Crush Saga!",
+        "source": "Candy Crush Saga (210831918949520)",
+        "type": "link"
+    },
+    "interaction": {
+        "schema": {
+            "version": 3
+        },
+        "type": "facebook",
+        "id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "created_at": "Tue, 20 May 2014 12:34:56 +0000",
+        "received_at": 1400000000.0000,
+        "author": {
+            "type": "user",
+            "hash_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        },
+        "title": "Yay, I completed level 576 in Candy Crush Saga!",
+        "link": "http://www.facebook.com/100000000000000_123456789012345",
+        "subtype": "link",
+        "content": "Click here to follow my progress!",
+        "source": "Candy Crush Saga (210831918949520)"
+    },
+    "language": {
+        "tag": "en",
+        "tag_extended": "en",
+        "confidence": 97
+    }
+}
